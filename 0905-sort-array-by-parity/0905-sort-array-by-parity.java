@@ -5,15 +5,25 @@ class Solution {
         int right=n-1;
         
        while (left < right) {
-             if( nums[left] % 2 == 0) {
-                left++;
-            }
+            //  if( nums[left] % 2 == 0) {
+            //     left++;
+            // }
      
-            if ( nums[right] % 2 == 1) {
-                right--;
-            }
+            // if ( nums[right] % 2 == 1) {
+            //     right--;
+            // }
 
-            if (left<right) {
+            // if (left<right) {
+            //     int temp = nums[left];
+            //     nums[left] = nums[right];
+            //     nums[right] = temp;
+            // }
+       
+             if (nums[left] % 2 == 0) {
+                left++;
+            } else if (nums[right] % 2 == 1) {
+                right--;
+            } else {
                 int temp = nums[left];
                 nums[left] = nums[right];
                 nums[right] = temp;
