@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut191685/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilraut191685/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilraut191685/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilraut191685/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sahilraut191685/DSA/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sahilraut191685/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahilraut191685/DSA/tree/master/0016-3sum-closest) |
+| [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
