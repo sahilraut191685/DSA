@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilraut191685/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahilraut191685/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1539-kth-missing-positive-number](https://github.com/sahilraut191685/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilraut191685/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut191685/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilraut191685/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/sahilraut191685/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
