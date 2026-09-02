@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahilraut191685/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilraut191685/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut191685/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahilraut191685/DSA/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilraut191685/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahilraut191685/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilraut191685/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut191685/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilraut191685/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/sahilraut191685/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sahilraut191685/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -76,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilraut191685/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahilraut191685/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahilraut191685/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sahilraut191685/DSA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahilraut191685/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -97,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilraut191685/DSA/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
