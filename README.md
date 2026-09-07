@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahilraut191685/DSA/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/sahilraut191685/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilraut191685/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahilraut191685/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sahilraut191685/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahilraut191685/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sahilraut191685/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
