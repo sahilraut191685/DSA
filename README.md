@@ -83,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sahilraut191685/DSA/tree/master/0344-reverse-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilraut191685/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +126,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sahilraut191685/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahilraut191685/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
