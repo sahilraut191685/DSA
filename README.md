@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/sahilraut191685/DSA/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilraut191685/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/sahilraut191685/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahilraut191685/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilraut191685/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
