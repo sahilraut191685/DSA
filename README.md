@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sahilraut191685/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sahilraut191685/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahilraut191685/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sahilraut191685/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
