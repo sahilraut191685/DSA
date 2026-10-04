@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahilraut191685/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahilraut191685/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilraut191685/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/sahilraut191685/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahilraut191685/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahilraut191685/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilraut191685/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilraut191685/DSA/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/sahilraut191685/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilraut191685/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sahilraut191685/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilraut191685/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sahilraut191685/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sahilraut191685/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/sahilraut191685/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
