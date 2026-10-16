@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sahilraut191685/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sahilraut191685/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/sahilraut191685/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sahilraut191685/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sahilraut191685/DSA/tree/master/0326-power-of-three) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahilraut191685/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilraut191685/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilraut191685/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sahilraut191685/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sahilraut191685/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sahilraut191685/DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/sahilraut191685/DSA/tree/master/0905-sort-array-by-parity) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahilraut191685/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilraut191685/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sahilraut191685/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/sahilraut191685/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sahilraut191685/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahilraut191685/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilraut191685/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sahilraut191685/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
