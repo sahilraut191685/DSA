@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut191685/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sahilraut191685/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahilraut191685/DSA/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/sahilraut191685/DSA/tree/master/0413-arithmetic-slices) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut191685/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilraut191685/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilraut191685/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sahilraut191685/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilraut191685/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sahilraut191685/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/sahilraut191685/DSA/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilraut191685/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilraut191685/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sahilraut191685/DSA/tree/master/0904-fruit-into-baskets) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/sahilraut191685/DSA/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/sahilraut191685/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/sahilraut191685/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
